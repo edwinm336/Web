@@ -1,0 +1,11 @@
+#main-logo{
+    background-color:#5b1270;
+}
+.navbar-center {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+    .navbar {
+      position: relative;
+    }
